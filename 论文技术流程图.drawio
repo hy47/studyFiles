@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T14:49:39.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" version="15.5.4" etag="wTL8RnqmLeqFYpgDW29z" type="github"><diagram id="Us0cADbMROTdJiihdSzo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-15T15:21:34.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50" etag="tvPwglwnPu-3g3pxg4yX" version="15.5.4" type="github">
+  <diagram id="Us0cADbMROTdJiihdSzo" name="Page-1">
+    <mxGraphModel dx="413" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey4XHgbHxBFwxcI1cafG-1" target="Ey4XHgbHxBFwxcI1cafG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-1" value="指标选取及数据处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey4XHgbHxBFwxcI1cafG-2" target="Ey4XHgbHxBFwxcI1cafG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey4XHgbHxBFwxcI1cafG-2" target="Ey4XHgbHxBFwxcI1cafG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-2" value="选取样本点数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Ey4XHgbHxBFwxcI1cafG-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="194.99500000000012" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-6" value="选取样本点数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-7" value="选取样本点数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ey4XHgbHxBFwxcI1cafG-8" target="Ey4XHgbHxBFwxcI1cafG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-8" value="训练样本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-9" value="传统方法风险评估数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-10" value="测试数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="270" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-16" value="精度满足" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ey4XHgbHxBFwxcI1cafG-14">
+          <mxGeometry x="0.1531" relative="1" as="geometry">
+            <mxPoint x="5" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ey4XHgbHxBFwxcI1cafG-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="400" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
